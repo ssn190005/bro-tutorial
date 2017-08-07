@@ -1,4 +1,5 @@
 # Introduces global, local & const variables - the const varibale can't be modified once set
+# Note that the initialization does set a data type for the variable nevertheless & this can't be changed
 global x = "Hello";
 
 event bro_init()
